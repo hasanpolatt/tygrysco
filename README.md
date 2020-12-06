@@ -4,8 +4,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/immortalasgod"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/immortalasgod"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/gwynbleiddww"> <img src="image/Steam_Logo.png"> </a> 
+<a href="https://steamcommunity.com/id/gwynbleiddww"><img height="30" src="image/Steam_Logo.png"></a>&nbsp;&nbsp; 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=tygrysco&style=flat-square&color=blueviolet)
