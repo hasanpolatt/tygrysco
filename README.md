@@ -7,9 +7,9 @@
 <p align="left">
   
 <!--<a href="https://www.linkedin.com/in/leonardomajevski/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> -->
-[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/immortalasgod)
+<a href="https://twitter.com/immortalasgod" target="_blank"twitter.com/immortalasgod><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
 <!--<a href="https://www.instagram.com/maujevski/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> </a>--> 
-<a href="https://steamcommunity.com/id/gwynbleiddww" target="_blank"> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
+<a href="https://steamcommunity.com/id/gwynbleiddww" target="_blank" target="_blank"steamcommunity.com/id/gwynbleiddww> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=tygrysco&style=flat-square&color=blueviolet)
