@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
-<a target="_blank> href="https://twitter.com/immortalasgod" target="_blank"twitter.com/immortalasgod"<img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/immortalasgod"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/gwynbleiddww"><img height="30" src="image/Steam_Logo.png"></a>&nbsp;&nbsp; 
 </p>
 
