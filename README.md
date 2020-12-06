@@ -7,9 +7,9 @@
 <p align="left">
   
 <!--<a href="https://www.linkedin.com/in/leonardomajevski/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> -->
-<a target="_blank" > href="https://twitter.com/immortalasgod" <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
+<a target="_blank"href="https://twitter.com/immortalasgod" > <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
 <!--<a href="https://www.instagram.com/maujevski/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> </a>--> 
-<a target="_blank"> href="https://steamcommunity.com/id/gwynbleiddww" <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
+<a target="_blank"href="https://steamcommunity.com/id/gwynbleiddww" > <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
 </p>
 
 
