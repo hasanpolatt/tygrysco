@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tygrysco&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tygrysco&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=20&card_width=2" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react)](https://github.com/tygrysco/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
