@@ -4,10 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react)](https://github.com/tygrysco/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tygrysco&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tygrysco&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tygrysco&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tygrysco&repo=convoychat" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
