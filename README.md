@@ -9,6 +9,9 @@
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react" />
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
