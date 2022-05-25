@@ -7,7 +7,7 @@
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tygrysco&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=20&card_width=2" />
 </a>
 
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react" />
 
 
 <h3 align="left">Connect with me:</h3>
