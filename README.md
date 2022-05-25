@@ -7,7 +7,7 @@
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tygrysco&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=21" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&hide_border=true&show_icons=true&theme=react)
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
