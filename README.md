@@ -1,6 +1,6 @@
-<h1 align="left">Hi there <a target="_blank"></a></h1>
+<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35"></a></h1>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tygrysco&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27" />
